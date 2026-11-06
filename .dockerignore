@@ -1,0 +1,11 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+.env*
+inventario_langfuse.json
+resultado_importacion*.json
+*.zip
+*.log
+tests/
